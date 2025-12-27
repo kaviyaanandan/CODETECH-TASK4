@@ -8,7 +8,7 @@ Mentor: MUZAMMIL
 
 Overview of the Project
 Project Title- Recommendation System Using Collaborative Filtering and Matrix Factorization
-
+![screenshot](https://github.com/kaviyaanandan/CODETECH-TASK4/blob/60087ccd7e6728edf166ab7a9124da8142d3ddb0/task-4.png)
 
 Objective
 
